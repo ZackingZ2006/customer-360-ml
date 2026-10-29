@@ -1,0 +1,65 @@
+{
+  "python": "3.12.14",
+  "pandas": "3.0.1",
+  "numpy": "2.5.4",
+  "sklearn": "1.9.1",
+  "seed": 42,
+  "selected_ml": "logistic_regression",
+  "selected_rule": "frequency_rule",
+  "selection_metric": "validation average_precision",
+  "threshold": 0.5,
+  "ranking_budget_fraction": 0.2,
+  "source_rows": {
+    "customers": 600,
+    "orders": 3200,
+    "completed": 2998
+  },
+  "source_hashes": {
+    "dim_customer.csv": "f410bc6b9e642c96da0cd441645c971823937171d32ee30ed339530c6f500195",
+    "fact_order.csv": "2b88e2e4861f067ae6e8caac650679e5cb041395a0b20351c6457f6e11c0b39b"
+  },
+  "split_summary": [
+    {
+      "split": "train",
+      "cutoff": "2025-03-31",
+      "observation_start": "2025-01-01",
+      "label_start": "2025-04-01",
+      "label_end": "2025-06-29",
+      "n": 283,
+      "positives": 201,
+      "prevalence": 0.7102473498233216
+    },
+    {
+      "split": "validation",
+      "cutoff": "2025-06-30",
+      "observation_start": "2025-04-02",
+      "label_start": "2025-07-01",
+      "label_end": "2025-09-28",
+      "n": 397,
+      "positives": 267,
+      "prevalence": 0.672544080604534
+    },
+    {
+      "split": "test",
+      "cutoff": "2025-09-30",
+      "observation_start": "2025-07-03",
+      "label_start": "2025-10-01",
+      "label_end": "2025-12-29",
+      "n": 489,
+      "positives": 315,
+      "prevalence": 0.6441717791411042
+    }
+  ],
+  "bootstrap": {
+    "comparison": "selected_ml_minus_validation_selected_rule",
+    "statistic": "average_precision_difference",
+    "estimate": 0.016434893571753317,
+    "ci95_low": 0.004694715883296355,
+    "ci95_high": 0.027746422914947298,
+    "resamples": 1000
+  },
+  "december_demo_rows": 575,
+  "december_outcomes_observed": false,
+  "evaluation_scope": "Future purchases of known observed buyers, on synthetic data; not unseen-customer generalization.",
+  "historical_availability_assumption": "Final Completed status is treated as known on order_date; no completion timestamp supplied."
+}

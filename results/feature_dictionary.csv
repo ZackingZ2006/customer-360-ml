@@ -1,0 +1,10 @@
+﻿feature,description_vi
+recency_capped_91,"Số ngày từ lần mua Completed cuối, chặn tại 91 ngày."
+orders_90d,Số đơn Completed trong 90 ngày tính cả ngày chốt.
+orders_30d,Số đơn Completed trong 30 ngày tính cả ngày chốt.
+log_revenue_90d,log1p(tổng giá trị đơn VND trong 90 ngày).
+log_revenue_30d,log1p(tổng giá trị đơn VND trong 30 ngày).
+log_aov_90d,log1p(giá trị đơn trung bình 90 ngày); 0 nếu không mua.
+log_max_order_90d,log1p(giá trị đơn cao nhất 90 ngày); 0 nếu không mua.
+channels_90d,Số kênh có đơn Completed trong 90 ngày.
+active_30d_blocks,"Số khoảng 30 ngày có mua trong 90 ngày, từ 0 đến 3."

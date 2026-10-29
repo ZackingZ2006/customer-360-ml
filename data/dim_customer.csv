@@ -1,0 +1,601 @@
+﻿customer_id,full_name,gender,birth_date,city,occupation,join_date,home_branch_id,preferred_channel,loyalty_tier,marketing_opt_in
+C0001,Huynh Duc Nam,Male,1987-03-20,Da Nang,Thiet ke,2024-12-27,B005,Store,Platinum,Y
+C0002,Vu Thi Trang,Female,1992-04-15,Da Nang,Ky su,2024-02-25,B006,Store,Gold,Y
+C0003,Tran Mai Thao,Female,2002-08-25,Da Nang,Chu cua hang,2022-07-09,B005,Store,Platinum,Y
+C0004,Ngo Huu Hung,Male,1999-02-19,TP.HCM,Quan ly,2024-04-10,B009,Store,Platinum,Y
+C0005,Pham Dieu Ngan,Female,1989-03-12,TP.HCM,Nhan vien dich vu,2024-10-17,B009,Store,Platinum,Y
+C0006,Vo Quang Trung,Male,2004-10-10,TP.HCM,Thiet ke,2024-07-04,B010,Store,Platinum,Y
+C0007,Huynh Huu Tu,Male,1987-09-14,Ha Noi,Nhan vien dich vu,2024-01-07,B003,Mobile App,Platinum,N
+C0008,Vo Minh An,Male,1965-02-17,Ha Noi,Giao vien,2022-10-05,B002,Website,Platinum,N
+C0009,Duong Ngoc Chi,Female,1969-10-05,TP.HCM,Thiet ke,2022-07-20,B010,Store,Platinum,Y
+C0010,Pham Thi Phuong,Female,1991-09-08,Ha Noi,Giao vien,2025-04-08,B003,Store,Platinum,Y
+C0011,Hoang Dieu Thao,Female,1965-10-14,Ha Noi,Chu cua hang,2023-10-04,B002,Store,Platinum,Y
+C0012,Phan Bao Giang,Female,2004-09-14,Can Tho,Chu cua hang,2022-04-05,B012,Store,Platinum,Y
+C0013,Ngo Dieu Mai,Female,1986-04-08,TP.HCM,Ky su,2024-06-24,B009,Mobile App,Platinum,N
+C0014,Pham Phuong Ngan,Female,1994-11-22,Ha Noi,Giao vien,2024-07-11,B001,Website,Platinum,Y
+C0015,Ho Huu Cuong,Male,2001-11-19,Khanh Hoa,Ky su,2023-12-12,B007,Store,Platinum,Y
+C0016,Ly Tuan Nam,Male,2002-03-10,Da Nang,Ky su,2022-01-24,B006,Website,Gold,N
+C0017,Nguyen Phuong Ngan,Female,1989-10-04,Ha Noi,Quan ly,2022-08-11,B001,Store,Platinum,Y
+C0018,Pham Dieu Anh,Female,1998-10-10,TP.HCM,Nhan vien dich vu,2023-06-19,B009,Mobile App,Platinum,Y
+C0019,Do Nhat Tu,Male,1979-08-26,TP.HCM,Thiet ke,2025-03-11,B010,Store,Platinum,Y
+C0020,Ngo Van Viet,Male,1985-10-12,TP.HCM,Kinh doanh tu do,2022-02-11,B009,Website,Gold,N
+C0021,Dang Dieu Thao,Female,2002-05-13,Can Tho,Nhan vien dich vu,2024-10-02,B012,Store,Platinum,Y
+C0022,Pham Thu Chi,Female,1986-10-15,TP.HCM,Quan ly,2024-12-23,B008,Mobile App,Platinum,Y
+C0023,Tran Nhat Thang,Male,1999-10-23,Khanh Hoa,Chu cua hang,2024-12-27,B007,Store,Platinum,N
+C0024,Vo Gia Phong,Male,1967-02-23,TP.HCM,Giao vien,2023-01-24,B011,Marketplace,Platinum,N
+C0025,Duong Tuan An,Male,1971-09-21,Ha Noi,Kinh doanh tu do,2023-10-13,B002,Store,Platinum,Y
+C0026,Vo Bao Linh,Female,1967-09-11,TP.HCM,Lap trinh vien,2022-11-10,B009,Store,Platinum,Y
+C0027,Phan Van Binh,Male,1986-06-09,Hai Phong,Kinh doanh tu do,2023-04-13,B004,Store,Platinum,Y
+C0028,Huynh Ngoc Ha,Female,1997-11-08,Ha Noi,Chu cua hang,2023-04-18,B001,Marketplace,Platinum,N
+C0029,Vu Huu Quan,Male,1974-04-13,Can Tho,Giao vien,2023-02-24,B012,Store,Platinum,Y
+C0030,Dang Van Son,Male,1988-03-03,Ha Noi,Chu cua hang,2024-06-02,B003,Store,Platinum,Y
+C0031,Do Gia Hai,Male,1992-11-07,TP.HCM,Chu cua hang,2024-08-06,B010,Store,Platinum,Y
+C0032,Phan Phuong Phuong,Female,1980-01-14,Da Nang,Thiet ke,2023-11-13,B006,Store,Platinum,Y
+C0033,Dang Thanh My,Female,1983-11-14,Ha Noi,Chu cua hang,2022-04-02,B003,Mobile App,Platinum,Y
+C0034,Tran Phuong Anh,Female,2003-09-23,TP.HCM,Chu cua hang,2023-08-01,B009,Mobile App,Platinum,Y
+C0035,Ngo Khanh Huong,Female,1995-03-17,TP.HCM,Thiet ke,2022-03-27,B009,Website,Platinum,Y
+C0036,Do Gia Nam,Male,1991-01-11,TP.HCM,Lap trinh vien,2022-08-17,B008,Website,Platinum,Y
+C0037,Do Bao Mai,Female,1989-10-27,TP.HCM,Lap trinh vien,2025-06-29,B011,Store,Platinum,Y
+C0038,Tran Thanh My,Female,1996-12-03,TP.HCM,Thiet ke,2023-04-30,B008,Store,Platinum,Y
+C0039,Nguyen Khanh Chi,Female,1971-09-12,TP.HCM,Thiet ke,2024-08-01,B008,Website,Platinum,Y
+C0040,Tran Khanh Chi,Female,1990-10-05,Ha Noi,Kinh doanh tu do,2023-03-09,B001,Website,Platinum,N
+C0041,Nguyen Thanh Dung,Male,1976-02-06,Da Nang,Ky su,2024-01-26,B006,Website,Gold,Y
+C0042,Nguyen Dieu Ngan,Female,1984-11-16,Ha Noi,Lap trinh vien,2022-11-16,B003,Store,Platinum,Y
+C0043,Phan Thu Chi,Female,1996-02-20,Ha Noi,Chu cua hang,2023-09-15,B002,Website,Gold,N
+C0044,Pham Huu Khang,Male,1966-06-13,TP.HCM,Quan ly,2023-08-22,B010,Store,Platinum,N
+C0045,Dang Tuan Hai,Male,1973-11-03,TP.HCM,Nhan vien van phong,2022-01-12,B009,Store,Gold,Y
+C0046,Le Minh Quan,Male,1996-08-26,TP.HCM,Nhan vien van phong,2025-04-06,B008,Store,Gold,Y
+C0047,Ngo Thu Trang,Female,1968-11-01,TP.HCM,Nhan vien dich vu,2022-02-05,B008,Marketplace,Platinum,Y
+C0048,Le Kim My,Female,1996-01-21,Da Nang,Giao vien,2023-04-18,B006,Website,Platinum,N
+C0049,Bui Khanh Phuong,Female,2000-10-03,Ha Noi,Nhan vien van phong,2023-09-16,B002,Store,Gold,Y
+C0050,Do Gia Viet,Male,1986-04-15,Da Nang,Sinh vien,2025-03-01,B006,Store,Gold,Y
+C0051,Duong Mai Phuong,Female,1984-03-18,TP.HCM,Lap trinh vien,2025-05-22,B008,Store,Gold,Y
+C0052,Huynh Thanh Trung,Male,1969-08-21,TP.HCM,Chu cua hang,2023-11-25,B011,Marketplace,Platinum,Y
+C0053,Dang Bao Lan,Female,1969-03-10,Ha Noi,Nhan vien dich vu,2024-02-06,B003,Store,Platinum,Y
+C0054,Ho Huu Khang,Male,1992-08-13,Ha Noi,Nhan vien dich vu,2024-07-20,B002,Website,Platinum,Y
+C0055,Huynh Mai Thao,Female,1979-07-20,TP.HCM,Kinh doanh tu do,2024-06-25,B008,Store,Platinum,Y
+C0056,Ngo Kim My,Female,1983-10-16,TP.HCM,Chu cua hang,2025-06-20,B008,Store,Standard,N
+C0057,Pham Thanh Binh,Male,1970-08-24,Ha Noi,Chu cua hang,2023-12-14,B001,Website,Platinum,Y
+C0058,Le Tuan Binh,Male,2000-04-20,Ha Noi,Giao vien,2022-05-01,B002,Website,Platinum,Y
+C0059,Vo Anh Hung,Male,1967-04-03,Ha Noi,Thiet ke,2023-10-10,B002,Store,Platinum,Y
+C0060,Vu Khanh Lan,Female,2003-07-26,TP.HCM,Chu cua hang,2023-12-17,B008,Store,Platinum,Y
+C0061,Vu Huu Trung,Male,1994-05-25,Da Nang,Sinh vien,2023-10-02,B006,Marketplace,Silver,Y
+C0062,Ngo Mai Ha,Female,1980-09-24,Da Nang,Quan ly,2022-08-28,B005,Store,Platinum,Y
+C0063,Vu Thanh Phong,Male,1972-11-08,Ha Noi,Ky su,2022-08-26,B002,Mobile App,Gold,Y
+C0064,Ho Duc Tu,Male,1983-10-03,TP.HCM,Ky su,2024-08-09,B009,Mobile App,Platinum,Y
+C0065,Le Phuong My,Female,1992-04-25,Can Tho,Lap trinh vien,2022-06-09,B012,Mobile App,Platinum,Y
+C0066,Do Bao Linh,Female,1976-02-12,Hai Phong,Nhan vien dich vu,2024-05-24,B004,Website,Platinum,Y
+C0067,Le Thu Dung,Female,1975-03-27,Ha Noi,Quan ly,2024-02-14,B001,Website,Gold,N
+C0068,Huynh Tuan Tu,Male,1991-09-20,Da Nang,Giao vien,2023-01-07,B005,Marketplace,Platinum,Y
+C0069,Duong Gia Dung,Male,1998-11-12,TP.HCM,Nhan vien dich vu,2023-06-09,B008,Mobile App,Gold,Y
+C0070,Bui Thanh Giang,Female,1970-09-18,Da Nang,Thiet ke,2023-10-04,B006,Store,Platinum,Y
+C0071,Do Minh Hai,Male,1971-08-18,TP.HCM,Thiet ke,2023-11-17,B010,Store,Silver,Y
+C0072,Phan Dieu Ngan,Female,1979-01-25,Can Tho,Kinh doanh tu do,2024-08-24,B012,Store,Platinum,Y
+C0073,Phan Nhat Thang,Male,1993-01-24,TP.HCM,Nhan vien van phong,2023-02-22,B010,Store,Gold,Y
+C0074,Ly Thu Anh,Female,1967-03-13,TP.HCM,Nhan vien van phong,2022-12-04,B008,Mobile App,Platinum,Y
+C0075,Bui Anh Nam,Male,1998-12-03,TP.HCM,Chu cua hang,2022-09-21,B010,Mobile App,Gold,Y
+C0076,Pham Gia Trung,Male,1977-04-10,Hai Phong,Chu cua hang,2024-12-21,B004,Store,Silver,Y
+C0077,Bui Dieu Hanh,Female,1986-06-13,Khanh Hoa,Thiet ke,2024-03-07,B007,Marketplace,Silver,Y
+C0078,Phan Huu Hai,Male,1981-10-05,Ha Noi,Sinh vien,2023-06-26,B003,Store,Platinum,Y
+C0079,Huynh Kim Chi,Female,1967-08-08,Can Tho,Nhan vien dich vu,2022-06-08,B012,Mobile App,Gold,Y
+C0080,Le Nhat Trung,Male,2003-07-03,TP.HCM,Nhan vien van phong,2025-04-20,B008,Store,Platinum,Y
+C0081,Vo Anh Khang,Male,1971-10-16,TP.HCM,Nhan vien dich vu,2024-02-08,B008,Store,Gold,Y
+C0082,Ho Huu Viet,Male,1980-10-20,Ha Noi,Lap trinh vien,2023-06-13,B001,Mobile App,Gold,N
+C0083,Pham Thanh Mai,Female,1978-05-11,TP.HCM,Sinh vien,2023-06-14,B011,Website,Gold,N
+C0084,Phan Thanh Anh,Female,1991-03-07,TP.HCM,Ky su,2022-11-03,B009,Website,Platinum,Y
+C0085,Tran Thi Lan,Female,1965-02-02,TP.HCM,Kinh doanh tu do,2023-11-04,B008,Website,Gold,Y
+C0086,Dang Thanh Trang,Female,1976-12-08,TP.HCM,Nhan vien van phong,2022-06-29,B008,Website,Platinum,Y
+C0087,Huynh Ngoc Hanh,Female,1988-02-14,Da Nang,Lap trinh vien,2024-07-20,B005,Store,Platinum,Y
+C0088,Ly Ngoc Phuong,Female,1997-09-08,Ha Noi,Chu cua hang,2025-02-07,B001,Store,Gold,Y
+C0089,Hoang Nhat An,Male,1995-01-15,Ha Noi,Sinh vien,2024-12-20,B002,Store,Platinum,Y
+C0090,Ngo Quang Long,Male,1969-07-17,TP.HCM,Quan ly,2024-03-27,B011,Store,Platinum,Y
+C0091,Ngo Thanh Trung,Male,1981-03-03,TP.HCM,Giao vien,2025-01-14,B011,Store,Platinum,Y
+C0092,Nguyen Minh Khang,Male,1986-08-06,Ha Noi,Lap trinh vien,2024-05-19,B002,Mobile App,Gold,Y
+C0093,Le Minh Khang,Male,1985-11-02,Ha Noi,Nhan vien dich vu,2023-05-29,B002,Website,Platinum,Y
+C0094,Tran Phuong Dung,Female,1985-10-04,Ha Noi,Quan ly,2025-06-02,B001,Store,Standard,N
+C0095,Nguyen Ngoc Hanh,Female,1994-10-26,Can Tho,Chu cua hang,2024-07-18,B012,Website,Gold,Y
+C0096,Duong Phuong Ha,Female,1966-05-04,TP.HCM,Quan ly,2024-04-23,B010,Marketplace,Platinum,Y
+C0097,Dang Kim My,Female,1998-02-03,TP.HCM,Lap trinh vien,2023-05-04,B010,Store,Silver,N
+C0098,Ho Thi Dung,Female,1969-02-15,Da Nang,Nhan vien dich vu,2024-05-22,B005,Website,Gold,Y
+C0099,Vu Tuan An,Male,1979-06-19,Ha Noi,Sinh vien,2023-02-09,B003,Website,Gold,Y
+C0100,Huynh Thanh Lan,Female,1989-05-09,Ha Noi,Giao vien,2024-01-18,B001,Website,Gold,N
+C0101,Ly Thi Anh,Female,1977-05-13,Ha Noi,Lap trinh vien,2024-01-04,B001,Website,Gold,Y
+C0102,Tran Gia Khang,Male,1965-06-02,TP.HCM,Nhan vien van phong,2022-01-07,B010,Store,Platinum,Y
+C0103,Ho Thu Giang,Female,1978-10-10,Can Tho,Thiet ke,2023-06-18,B012,Website,Platinum,N
+C0104,Phan Thi Chi,Female,1965-11-19,TP.HCM,Quan ly,2022-09-29,B009,Mobile App,Platinum,N
+C0105,Do Bao Anh,Female,1990-03-16,Ha Noi,Quan ly,2025-03-04,B003,Store,Platinum,Y
+C0106,Ngo Van Thang,Male,1981-03-10,TP.HCM,Kinh doanh tu do,2023-01-13,B009,Website,Gold,N
+C0107,Ngo Van Viet,Male,1981-07-03,Ha Noi,Kinh doanh tu do,2022-07-28,B001,Mobile App,Gold,N
+C0108,Vo Mai Linh,Female,1968-12-04,Ha Noi,Chu cua hang,2024-11-14,B001,Marketplace,Gold,Y
+C0109,Ngo Duc Son,Male,1971-01-04,Ha Noi,Nhan vien van phong,2023-07-25,B002,Website,Gold,N
+C0110,Ngo Phuong Ngan,Female,1972-07-10,TP.HCM,Kinh doanh tu do,2022-03-06,B010,Store,Gold,Y
+C0111,Bui Anh Thang,Male,1976-01-17,Ha Noi,Sinh vien,2022-01-02,B001,Website,Platinum,N
+C0112,Dang Khanh Linh,Female,1996-07-01,Can Tho,Chu cua hang,2025-01-03,B012,Marketplace,Silver,N
+C0113,Vo Huu Trung,Male,1981-08-21,Ha Noi,Giao vien,2022-06-16,B003,Website,Silver,Y
+C0114,Ngo Thanh Chi,Female,1991-02-21,Can Tho,Kinh doanh tu do,2025-02-14,B012,Store,Silver,N
+C0115,Huynh Thanh Lan,Female,1976-07-21,TP.HCM,Quan ly,2023-06-27,B009,Store,Platinum,N
+C0116,Vu Ngoc Linh,Female,1972-02-17,Ha Noi,Kinh doanh tu do,2023-12-02,B001,Website,Gold,Y
+C0117,Vo Thanh Phuong,Female,1987-02-13,Ha Noi,Nhan vien van phong,2024-06-04,B002,Website,Gold,Y
+C0118,Tran Huu Long,Male,1999-09-20,Can Tho,Giao vien,2022-01-22,B012,Store,Platinum,Y
+C0119,Do Nhat Son,Male,1995-09-19,TP.HCM,Kinh doanh tu do,2024-06-08,B009,Marketplace,Silver,N
+C0120,Huynh Thu Giang,Female,1978-08-10,Ha Noi,Quan ly,2022-08-02,B002,Store,Platinum,Y
+C0121,Bui Mai Lan,Female,1984-04-09,TP.HCM,Nhan vien van phong,2022-05-15,B010,Store,Standard,Y
+C0122,Vo Tuan Son,Male,1997-08-24,Da Nang,Giao vien,2023-10-21,B005,Store,Standard,N
+C0123,Vu Quang Son,Male,1986-04-11,Ha Noi,Nhan vien dich vu,2023-10-13,B001,Marketplace,Standard,Y
+C0124,Vu Tuan Long,Male,1976-10-18,TP.HCM,Chu cua hang,2024-04-03,B010,Mobile App,Standard,Y
+C0125,Ho Thi Huong,Female,1986-03-15,TP.HCM,Ky su,2022-03-08,B011,Mobile App,Standard,Y
+C0126,Phan Bao Giang,Female,1974-02-26,Hai Phong,Sinh vien,2024-05-04,B004,Website,Standard,Y
+C0127,Bui Quang Thang,Male,1966-01-17,Ha Noi,Quan ly,2023-07-06,B002,Store,Silver,Y
+C0128,Hoang Thu Chi,Female,1976-04-26,TP.HCM,Chu cua hang,2023-05-01,B009,Website,Standard,N
+C0129,Ho Mai Linh,Female,1978-01-12,TP.HCM,Chu cua hang,2025-05-18,B010,Store,Standard,N
+C0130,Tran Thanh Ngan,Female,1987-10-01,Can Tho,Nhan vien van phong,2025-06-29,B012,Marketplace,Gold,Y
+C0131,Vo Ngoc Hoa,Female,1971-08-10,TP.HCM,Nhan vien dich vu,2023-06-28,B008,Website,Standard,Y
+C0132,Tran Kim Ngan,Female,1991-03-03,Ha Noi,Giao vien,2023-03-09,B001,Store,Standard,Y
+C0133,Hoang Quang Thang,Male,1983-04-10,Khanh Hoa,Thiet ke,2025-04-02,B007,Store,Silver,Y
+C0134,Ly Mai Lan,Female,1989-08-20,Can Tho,Giao vien,2024-08-08,B012,Website,Standard,N
+C0135,Pham Thu Ha,Female,1994-11-26,TP.HCM,Giao vien,2022-12-26,B010,Website,Silver,N
+C0136,Ho Dieu Trang,Female,1969-02-12,Khanh Hoa,Ky su,2022-12-06,B007,Mobile App,Gold,Y
+C0137,Dang Dieu Huong,Female,1968-04-02,Can Tho,Giao vien,2022-03-02,B012,Website,Standard,Y
+C0138,Ngo Dieu Thao,Female,1977-06-02,Da Nang,Thiet ke,2025-01-29,B006,Mobile App,Silver,Y
+C0139,Huynh Duc Hai,Male,2003-02-17,Ha Noi,Nhan vien dich vu,2024-03-04,B001,Website,Silver,Y
+C0140,Dang Kim Trang,Female,2000-05-12,TP.HCM,Thiet ke,2023-10-13,B011,Store,Gold,Y
+C0141,Do Dieu Linh,Female,1994-08-10,TP.HCM,Kinh doanh tu do,2023-04-03,B011,Store,Standard,Y
+C0142,Pham Thanh Lan,Female,1987-08-27,Can Tho,Quan ly,2022-02-01,B012,Store,Standard,Y
+C0143,Hoang Thanh Quan,Male,2004-06-12,Khanh Hoa,Giao vien,2022-12-16,B007,Store,Silver,Y
+C0144,Vo Dieu Ha,Female,1984-11-18,Khanh Hoa,Ky su,2023-12-01,B007,Store,Standard,Y
+C0145,Ho Huu Viet,Male,1965-03-27,Ha Noi,Nhan vien dich vu,2023-04-20,B003,Mobile App,Gold,N
+C0146,Nguyen Van Hung,Male,1990-10-10,Hai Phong,Quan ly,2023-04-30,B004,Website,Silver,Y
+C0147,Huynh Thanh Cuong,Male,2004-01-21,TP.HCM,Nhan vien dich vu,2024-09-10,B010,Marketplace,Gold,Y
+C0148,Tran Kim Giang,Female,1990-10-08,TP.HCM,Nhan vien dich vu,2023-12-27,B010,Store,Silver,Y
+C0149,Dang Thu Trang,Female,1978-08-10,TP.HCM,Lap trinh vien,2022-11-14,B008,Store,Gold,Y
+C0150,Phan Tuan Thang,Male,1973-04-13,Can Tho,Lap trinh vien,2023-06-11,B012,Website,Silver,Y
+C0151,Ngo Thanh Binh,Male,2000-10-07,Ha Noi,Kinh doanh tu do,2022-05-29,B002,Store,Standard,Y
+C0152,Ly Dieu Dung,Female,1996-12-20,Ha Noi,Giao vien,2024-10-30,B003,Website,Standard,N
+C0153,Bui Anh Cuong,Male,1975-04-18,TP.HCM,Thiet ke,2025-03-07,B008,Store,Standard,Y
+C0154,Phan Thi Phuong,Female,1980-03-24,Can Tho,Sinh vien,2023-05-02,B012,Store,Silver,Y
+C0155,Phan Tuan Khang,Male,1994-02-07,Ha Noi,Ky su,2022-08-23,B002,Website,Gold,N
+C0156,Le Mai Chi,Female,1976-03-22,Ha Noi,Nhan vien dich vu,2025-04-28,B002,Mobile App,Standard,Y
+C0157,Pham Thanh Dung,Male,1987-11-21,Da Nang,Chu cua hang,2024-11-10,B005,Website,Standard,N
+C0158,Tran Bao Chi,Female,1994-03-22,TP.HCM,Quan ly,2022-06-26,B009,Website,Silver,Y
+C0159,Tran Ngoc Lan,Female,1992-05-23,TP.HCM,Lap trinh vien,2022-08-25,B010,Website,Gold,Y
+C0160,Dang Tuan Thang,Male,1978-11-07,Ha Noi,Thiet ke,2023-10-16,B002,Store,Standard,N
+C0161,Huynh Gia Hai,Male,1983-08-19,Can Tho,Quan ly,2022-07-07,B012,Mobile App,Standard,Y
+C0162,Vo Khanh Giang,Female,1990-07-07,Ha Noi,Nhan vien van phong,2025-05-26,B001,Store,Standard,Y
+C0163,Dang Thi Chi,Female,1977-09-01,Ha Noi,Kinh doanh tu do,2023-10-24,B003,Website,Standard,N
+C0164,Ngo Nhat Son,Male,1999-05-21,Can Tho,Giao vien,2023-06-30,B012,Store,Gold,Y
+C0165,Ngo Thu Chi,Female,2000-10-19,TP.HCM,Nhan vien van phong,2022-06-12,B008,Store,Standard,N
+C0166,Bui Mai Anh,Female,1997-05-14,TP.HCM,Sinh vien,2025-03-18,B009,Mobile App,Silver,Y
+C0167,Hoang Bao Dung,Female,1999-04-10,TP.HCM,Ky su,2024-09-08,B010,Website,Standard,Y
+C0168,Duong Thanh Trung,Male,1993-05-21,Ha Noi,Lap trinh vien,2024-10-19,B001,Store,Standard,Y
+C0169,Pham Thanh Ha,Female,1973-08-10,Can Tho,Giao vien,2024-12-18,B012,Website,Silver,Y
+C0170,Vu Duc Viet,Male,1977-03-08,TP.HCM,Ky su,2022-01-13,B008,Website,Gold,Y
+C0171,Ly Bao Ha,Female,1975-09-21,TP.HCM,Kinh doanh tu do,2023-07-10,B009,Store,Silver,N
+C0172,Hoang Quang Viet,Male,1994-06-05,TP.HCM,Kinh doanh tu do,2024-12-12,B008,Website,Silver,N
+C0173,Le Kim Thao,Female,1979-07-09,Ha Noi,Chu cua hang,2025-03-29,B001,Website,Standard,Y
+C0174,Tran Kim Huong,Female,1989-11-25,TP.HCM,Chu cua hang,2024-09-26,B010,Website,Standard,Y
+C0175,Tran Quang Hai,Male,1978-05-01,TP.HCM,Nhan vien dich vu,2024-09-30,B010,Website,Silver,Y
+C0176,Duong Anh An,Male,1995-04-01,Ha Noi,Nhan vien van phong,2022-05-23,B002,Store,Silver,N
+C0177,Duong Van Trung,Male,1974-11-05,Khanh Hoa,Thiet ke,2022-03-12,B007,Store,Silver,N
+C0178,Le Huu Cuong,Male,1977-11-12,TP.HCM,Quan ly,2024-10-03,B009,Mobile App,Silver,Y
+C0179,Huynh Ngoc Phuong,Female,1994-11-06,Ha Noi,Ky su,2022-06-03,B003,Marketplace,Standard,Y
+C0180,Bui Thanh Thang,Male,1993-09-04,TP.HCM,Lap trinh vien,2024-01-30,B008,Mobile App,Silver,Y
+C0181,Bui Dieu My,Female,1988-01-07,TP.HCM,Nhan vien dich vu,2023-08-18,B010,Marketplace,Silver,Y
+C0182,Pham Dieu Giang,Female,2001-10-04,TP.HCM,Chu cua hang,2024-03-19,B009,Store,Gold,Y
+C0183,Nguyen Thanh Thang,Male,1967-10-24,Da Nang,Nhan vien dich vu,2024-04-14,B005,Website,Silver,N
+C0184,Ngo Bao My,Female,1999-08-25,TP.HCM,Nhan vien van phong,2024-07-03,B011,Website,Silver,N
+C0185,Huynh Kim Hanh,Female,2000-03-09,Hai Phong,Thiet ke,2025-01-17,B004,Store,Silver,Y
+C0186,Phan Huu Trung,Male,1970-08-12,Can Tho,Lap trinh vien,2022-08-25,B012,Mobile App,Silver,Y
+C0187,Vo Nhat Nam,Male,1995-10-26,TP.HCM,Giao vien,2022-01-30,B009,Store,Silver,Y
+C0188,Nguyen Khanh Trang,Female,1977-08-26,Can Tho,Nhan vien dich vu,2022-06-30,B012,Marketplace,Silver,N
+C0189,Le Dieu Thao,Female,1993-09-07,Da Nang,Nhan vien dich vu,2022-06-13,B005,Mobile App,Standard,Y
+C0190,Bui Thi Trang,Female,1977-10-03,Ha Noi,Kinh doanh tu do,2024-01-08,B002,Website,Silver,Y
+C0191,Pham Nhat Viet,Male,1969-08-14,Can Tho,Thiet ke,2023-12-16,B012,Store,Silver,Y
+C0192,Pham Thu Lan,Female,1988-10-05,Ha Noi,Kinh doanh tu do,2024-06-05,B002,Store,Silver,Y
+C0193,Hoang Anh Khang,Male,1971-12-23,TP.HCM,Nhan vien van phong,2023-01-23,B010,Store,Standard,Y
+C0194,Vu Mai Ngan,Female,1965-01-13,TP.HCM,Sinh vien,2023-12-14,B011,Store,Gold,Y
+C0195,Vo Thanh Anh,Female,1969-06-17,Ha Noi,Nhan vien van phong,2024-04-29,B002,Website,Gold,Y
+C0196,Vo Thu Mai,Female,1966-06-24,Can Tho,Quan ly,2023-05-18,B012,Website,Gold,N
+C0197,Ngo Duc Hung,Male,2004-03-15,TP.HCM,Ky su,2022-08-16,B010,Store,Silver,Y
+C0198,Phan Anh Hung,Male,1999-09-07,Ha Noi,Quan ly,2023-03-09,B003,Store,Gold,N
+C0199,Duong Van Quan,Male,1988-12-08,TP.HCM,Sinh vien,2024-10-29,B010,Store,Silver,Y
+C0200,Huynh Gia Dung,Male,1980-06-16,Ha Noi,Giao vien,2022-06-23,B003,Store,Standard,Y
+C0201,Tran Thi Trang,Female,1998-04-12,Da Nang,Kinh doanh tu do,2022-01-13,B005,Website,Standard,Y
+C0202,Ngo Thanh Phong,Male,2000-11-02,TP.HCM,Lap trinh vien,2022-06-05,B011,Store,Silver,Y
+C0203,Ngo Thi Mai,Female,2001-02-06,Ha Noi,Nhan vien dich vu,2024-04-19,B001,Mobile App,Gold,Y
+C0204,Vu Anh Son,Male,1971-06-09,Da Nang,Nhan vien dich vu,2023-07-07,B005,Store,Silver,Y
+C0205,Dang Huu Phong,Male,1998-02-05,TP.HCM,Quan ly,2023-11-02,B009,Store,Silver,Y
+C0206,Pham Van Dung,Male,1995-09-02,Can Tho,Nhan vien van phong,2022-01-27,B012,Marketplace,Silver,Y
+C0207,Bui Huu Hai,Male,1970-12-22,Ha Noi,Nhan vien van phong,2023-08-07,B001,Store,Silver,N
+C0208,Ho Thi Ha,Female,1987-06-19,Da Nang,Sinh vien,2022-08-30,B005,Website,Silver,Y
+C0209,Duong Thanh Khang,Male,1988-04-01,Ha Noi,Kinh doanh tu do,2022-01-16,B002,Website,Gold,N
+C0210,Dang Quang Thang,Male,2002-01-05,TP.HCM,Thiet ke,2023-03-11,B009,Marketplace,Standard,Y
+C0211,Bui Anh Binh,Male,1982-03-25,Can Tho,Sinh vien,2025-01-15,B012,Website,Silver,N
+C0212,Nguyen Gia Nam,Male,1998-05-11,TP.HCM,Giao vien,2024-02-04,B009,Store,Standard,Y
+C0213,Vo Anh Dung,Male,2003-12-10,Ha Noi,Sinh vien,2022-02-21,B001,Mobile App,Standard,Y
+C0214,Vu Bao Thao,Female,1982-12-13,TP.HCM,Nhan vien dich vu,2024-11-30,B009,Mobile App,Gold,N
+C0215,Hoang Nhat Phong,Male,1986-07-10,Ha Noi,Ky su,2024-11-28,B003,Store,Silver,Y
+C0216,Huynh Ngoc Phuong,Female,1971-02-26,TP.HCM,Kinh doanh tu do,2024-01-21,B010,Store,Silver,Y
+C0217,Do Van Phong,Male,1995-05-04,TP.HCM,Thiet ke,2022-09-21,B008,Store,Standard,N
+C0218,Vu Minh An,Male,1997-03-05,TP.HCM,Lap trinh vien,2023-05-30,B009,Store,Standard,Y
+C0219,Ho Dieu Dung,Female,1983-03-05,Da Nang,Ky su,2022-03-07,B006,Website,Standard,N
+C0220,Ly Mai Anh,Female,1980-11-03,TP.HCM,Ky su,2023-03-15,B010,Store,Standard,Y
+C0221,Vo Minh Nam,Male,1987-08-14,Can Tho,Thiet ke,2022-04-07,B012,Store,Gold,Y
+C0222,Duong Gia Phong,Male,1997-11-06,TP.HCM,Nhan vien dich vu,2023-06-01,B011,Website,Standard,N
+C0223,Vu Thi Giang,Female,1973-04-18,Ha Noi,Chu cua hang,2024-05-23,B002,Store,Standard,Y
+C0224,Hoang Mai Ha,Female,2003-06-16,TP.HCM,Quan ly,2023-03-23,B011,Store,Standard,Y
+C0225,Nguyen Van Cuong,Male,1996-05-15,TP.HCM,Nhan vien dich vu,2025-05-09,B009,Website,Silver,N
+C0226,Le Tuan Hung,Male,1968-09-20,Can Tho,Sinh vien,2024-03-09,B012,Website,Silver,Y
+C0227,Do Dieu My,Female,1996-05-09,Ha Noi,Kinh doanh tu do,2024-06-10,B001,Website,Gold,N
+C0228,Ly Khanh Ngan,Female,1994-02-18,Ha Noi,Quan ly,2024-05-20,B003,Store,Silver,Y
+C0229,Pham Gia Trung,Male,1965-02-12,Da Nang,Giao vien,2023-03-04,B005,Store,Silver,Y
+C0230,Ly Thu Lan,Female,1982-10-17,Ha Noi,Lap trinh vien,2024-02-21,B001,Store,Standard,Y
+C0231,Ho Mai Lan,Female,1975-02-26,Ha Noi,Nhan vien van phong,2022-09-04,B003,Store,Gold,Y
+C0232,Le Thu My,Female,2003-09-02,TP.HCM,Nhan vien van phong,2024-12-13,B008,Website,Silver,N
+C0233,Vo Ngoc Ngan,Female,1969-02-02,TP.HCM,Giao vien,2023-11-14,B011,Website,Standard,N
+C0234,Bui Thu Phuong,Female,1990-04-22,Can Tho,Quan ly,2024-07-09,B012,Store,Gold,N
+C0235,Vo Phuong Trang,Female,2001-09-15,TP.HCM,Thiet ke,2024-09-25,B010,Marketplace,Gold,Y
+C0236,Le Tuan Dung,Male,1983-01-20,TP.HCM,Nhan vien dich vu,2022-09-23,B011,Store,Standard,N
+C0237,Vu Thanh Trang,Female,1989-06-17,Ha Noi,Quan ly,2022-02-10,B002,Mobile App,Silver,Y
+C0238,Hoang Dieu Huong,Female,1984-09-11,Da Nang,Kinh doanh tu do,2024-09-19,B006,Store,Silver,Y
+C0239,Do Thu Ha,Female,2001-01-06,TP.HCM,Lap trinh vien,2025-06-06,B009,Store,Standard,Y
+C0240,Dang Nhat Tu,Male,1999-06-22,Da Nang,Thiet ke,2022-04-10,B006,Mobile App,Standard,Y
+C0241,Do Dieu Ngan,Female,1968-02-21,Ha Noi,Nhan vien van phong,2024-06-17,B001,Website,Standard,Y
+C0242,Le Phuong Linh,Female,1994-10-23,Can Tho,Sinh vien,2022-09-04,B012,Store,Standard,Y
+C0243,Duong Minh Dung,Male,1987-11-06,TP.HCM,Lap trinh vien,2023-03-16,B011,Store,Gold,Y
+C0244,Huynh Mai Anh,Female,1986-08-25,Ha Noi,Sinh vien,2024-10-15,B002,Website,Standard,Y
+C0245,Le Phuong Mai,Female,1998-04-08,Da Nang,Ky su,2024-10-06,B005,Store,Silver,Y
+C0246,Ho Phuong Hanh,Female,1983-11-08,TP.HCM,Chu cua hang,2022-11-12,B010,Website,Standard,Y
+C0247,Ngo Minh Viet,Male,1969-05-03,TP.HCM,Quan ly,2023-05-12,B011,Marketplace,Silver,Y
+C0248,Phan Bao Linh,Female,1997-03-24,Hai Phong,Lap trinh vien,2025-02-01,B004,Mobile App,Gold,Y
+C0249,Vo Thanh Hanh,Female,1980-05-12,TP.HCM,Kinh doanh tu do,2023-01-02,B008,Store,Standard,Y
+C0250,Vu Nhat Khang,Male,1979-07-18,Ha Noi,Lap trinh vien,2024-04-24,B001,Website,Standard,Y
+C0251,Bui Minh An,Male,1982-01-20,Hai Phong,Chu cua hang,2023-10-01,B004,Store,Gold,Y
+C0252,Hoang Nhat Binh,Male,1974-12-04,Can Tho,Ky su,2022-04-13,B012,Mobile App,Standard,Y
+C0253,Tran Dieu Dung,Female,1970-12-11,Can Tho,Thiet ke,2024-04-17,B012,Store,Silver,Y
+C0254,Bui Thanh Ha,Female,1989-06-06,Ha Noi,Ky su,2023-08-01,B001,Marketplace,Silver,Y
+C0255,Duong Mai Linh,Female,1987-04-07,Ha Noi,Kinh doanh tu do,2022-12-13,B001,Marketplace,Standard,Y
+C0256,Ho Dieu Ngan,Female,1965-04-03,Can Tho,Nhan vien van phong,2024-05-26,B012,Website,Silver,Y
+C0257,Ngo Huu Dung,Male,1989-04-18,TP.HCM,Nhan vien van phong,2023-05-25,B008,Store,Standard,N
+C0258,Vu Khanh Hoa,Female,1965-02-20,TP.HCM,Kinh doanh tu do,2023-02-19,B008,Mobile App,Gold,Y
+C0259,Duong Nhat Cuong,Male,1978-12-15,TP.HCM,Quan ly,2023-04-23,B011,Website,Gold,Y
+C0260,Ngo Gia Binh,Male,1981-08-02,Ha Noi,Nhan vien dich vu,2022-11-16,B003,Store,Silver,Y
+C0261,Le Thanh My,Female,1980-04-07,Ha Noi,Kinh doanh tu do,2025-01-08,B002,Website,Silver,Y
+C0262,Ly Huu Son,Male,2001-07-09,Khanh Hoa,Chu cua hang,2024-03-16,B007,Store,Silver,Y
+C0263,Le Thi Thao,Female,1997-08-01,TP.HCM,Giao vien,2025-06-28,B010,Mobile App,Standard,Y
+C0264,Duong Dieu My,Female,2003-02-23,TP.HCM,Giao vien,2025-06-08,B009,Store,Standard,Y
+C0265,Hoang Minh Binh,Male,1985-10-03,Ha Noi,Giao vien,2023-10-23,B003,Store,Silver,Y
+C0266,Ly Thanh Hoa,Female,1992-07-20,TP.HCM,Nhan vien van phong,2024-07-01,B010,Mobile App,Standard,Y
+C0267,Tran Quang Trung,Male,2000-08-26,Ha Noi,Chu cua hang,2023-03-31,B001,Store,Gold,Y
+C0268,Vo Minh Cuong,Male,1994-09-18,TP.HCM,Nhan vien dich vu,2022-07-09,B009,Store,Gold,Y
+C0269,Vu Phuong Hoa,Female,2002-02-27,Ha Noi,Giao vien,2025-05-30,B001,Store,Silver,N
+C0270,Hoang Thanh An,Male,1969-05-25,TP.HCM,Nhan vien van phong,2025-02-09,B010,Store,Standard,Y
+C0271,Phan Kim Ngan,Female,2000-10-16,TP.HCM,Lap trinh vien,2022-03-03,B008,Store,Silver,Y
+C0272,Pham Mai Dung,Female,1979-05-04,TP.HCM,Quan ly,2024-06-24,B009,Website,Silver,Y
+C0273,Phan Quang Son,Male,1979-01-02,Ha Noi,Kinh doanh tu do,2023-10-08,B001,Store,Silver,Y
+C0274,Phan Duc Hung,Male,2000-08-22,Ha Noi,Nhan vien dich vu,2024-08-20,B002,Store,Gold,N
+C0275,Duong Nhat Hai,Male,1965-09-19,Ha Noi,Nhan vien van phong,2024-07-05,B001,Mobile App,Silver,Y
+C0276,Ngo Huu An,Male,1988-06-21,TP.HCM,Quan ly,2022-04-02,B010,Store,Silver,Y
+C0277,Pham Bao Trang,Female,1966-10-22,TP.HCM,Nhan vien dich vu,2023-05-27,B010,Store,Silver,Y
+C0278,Ho Mai Trang,Female,1975-06-10,Ha Noi,Lap trinh vien,2023-07-21,B002,Store,Gold,Y
+C0279,Phan Phuong Phuong,Female,1989-04-24,TP.HCM,Lap trinh vien,2024-08-22,B008,Website,Silver,Y
+C0280,Vo Thu Lan,Female,1985-09-01,Ha Noi,Lap trinh vien,2023-08-15,B003,Website,Standard,Y
+C0281,Hoang Minh Binh,Male,1979-02-22,TP.HCM,Nhan vien dich vu,2022-04-11,B009,Website,Silver,Y
+C0282,Dang Thi Hoa,Female,1995-08-23,Ha Noi,Lap trinh vien,2024-09-07,B001,Website,Silver,Y
+C0283,Dang Huu Hai,Male,1979-07-21,TP.HCM,Sinh vien,2023-09-09,B008,Store,Silver,Y
+C0284,Duong Anh Hung,Male,1973-04-03,TP.HCM,Lap trinh vien,2023-09-15,B009,Website,Platinum,N
+C0285,Pham Thi Ngan,Female,2001-08-25,Ha Noi,Giao vien,2022-03-04,B002,Store,Silver,Y
+C0286,Do Tuan Khang,Male,1991-09-18,TP.HCM,Chu cua hang,2024-02-01,B008,Marketplace,Silver,Y
+C0287,Huynh Van Cuong,Male,1995-01-26,TP.HCM,Nhan vien van phong,2025-01-10,B009,Store,Silver,Y
+C0288,Pham Gia An,Male,1989-08-08,TP.HCM,Nhan vien van phong,2022-01-14,B009,Mobile App,Standard,Y
+C0289,Ho Khanh Thao,Female,1977-11-19,TP.HCM,Chu cua hang,2025-06-19,B010,Website,Silver,Y
+C0290,Pham Gia Thang,Male,1970-06-26,TP.HCM,Thiet ke,2023-12-14,B011,Website,Silver,Y
+C0291,Phan Khanh Huong,Female,1968-03-07,TP.HCM,Sinh vien,2022-05-30,B011,Store,Silver,Y
+C0292,Vu Thanh Hoa,Female,1989-06-15,Ha Noi,Ky su,2023-06-19,B003,Store,Silver,Y
+C0293,Dang Nhat Binh,Male,1971-06-20,Ha Noi,Lap trinh vien,2022-10-09,B001,Store,Standard,Y
+C0294,Ly Gia Nam,Male,2004-12-12,TP.HCM,Lap trinh vien,2023-03-16,B008,Website,Standard,Y
+C0295,Vu Dieu Ngan,Female,1970-12-23,TP.HCM,Sinh vien,2022-08-05,B008,Store,Standard,Y
+C0296,Nguyen Bao Anh,Female,1969-12-17,TP.HCM,Nhan vien dich vu,2023-09-16,B009,Mobile App,Silver,Y
+C0297,Nguyen Ngoc Thao,Female,2003-05-19,Ha Noi,Nhan vien van phong,2025-07-01,B002,Website,Standard,Y
+C0298,Bui Huu Cuong,Male,2002-10-22,Ha Noi,Nhan vien van phong,2022-09-24,B002,Website,Standard,N
+C0299,Vo Phuong Huong,Female,1976-01-09,Ha Noi,Kinh doanh tu do,2022-03-27,B001,Store,Gold,Y
+C0300,Phan Thu Huong,Female,1965-10-09,Ha Noi,Quan ly,2023-11-29,B001,Store,Standard,Y
+C0301,Nguyen Thu Dung,Female,1992-10-02,Can Tho,Sinh vien,2024-10-07,B012,Store,Silver,Y
+C0302,Dang Quang Binh,Male,1971-06-04,TP.HCM,Ky su,2023-02-09,B011,Website,Standard,Y
+C0303,Le Thanh Ha,Female,1981-05-24,Da Nang,Ky su,2025-03-18,B006,Mobile App,Standard,Y
+C0304,Bui Thanh Huong,Female,2001-08-11,Can Tho,Kinh doanh tu do,2022-02-06,B012,Website,Silver,Y
+C0305,Tran Mai Hoa,Female,1978-04-22,TP.HCM,Chu cua hang,2022-12-03,B008,Store,Silver,Y
+C0306,Hoang Thi Hanh,Female,1975-10-01,Khanh Hoa,Chu cua hang,2023-04-24,B007,Store,Standard,N
+C0307,Tran Thanh Anh,Female,1992-08-17,Ha Noi,Nhan vien van phong,2023-12-24,B003,Mobile App,Silver,Y
+C0308,Do Ngoc Chi,Female,1982-08-23,Da Nang,Lap trinh vien,2025-03-26,B006,Website,Standard,Y
+C0309,Ly Duc Son,Male,1993-04-21,Can Tho,Nhan vien van phong,2022-03-10,B012,Website,Silver,Y
+C0310,Hoang Gia Binh,Male,1967-01-07,Da Nang,Giao vien,2024-01-13,B006,Store,Silver,Y
+C0311,Tran Thu Anh,Female,1970-09-21,TP.HCM,Lap trinh vien,2022-12-19,B011,Store,Standard,N
+C0312,Huynh Ngoc Dung,Female,1984-03-17,Can Tho,Giao vien,2023-11-12,B012,Store,Standard,Y
+C0313,Phan Duc Khang,Male,1988-12-03,TP.HCM,Ky su,2024-12-20,B009,Store,Standard,Y
+C0314,Ly Quang Trung,Male,1986-03-12,TP.HCM,Nhan vien van phong,2025-02-16,B008,Store,Silver,N
+C0315,Ngo Nhat Hung,Male,1973-09-22,Khanh Hoa,Ky su,2025-05-22,B007,Website,Standard,Y
+C0316,Do Huu Phong,Male,1973-10-25,Hai Phong,Kinh doanh tu do,2022-02-22,B004,Mobile App,Gold,Y
+C0317,Bui Thi Hoa,Female,1994-03-24,TP.HCM,Sinh vien,2023-12-04,B011,Store,Silver,N
+C0318,Tran Nhat An,Male,1978-03-10,Can Tho,Sinh vien,2023-09-20,B012,Store,Standard,Y
+C0319,Vo Kim Trang,Female,1992-01-12,Da Nang,Ky su,2023-04-23,B005,Store,Silver,Y
+C0320,Pham Phuong Ha,Female,1987-08-04,Ha Noi,Sinh vien,2023-06-14,B003,Store,Gold,Y
+C0321,Hoang Tuan Nam,Male,1976-05-18,Ha Noi,Giao vien,2024-11-24,B001,Website,Silver,Y
+C0322,Duong Duc Thang,Male,2000-05-01,Can Tho,Chu cua hang,2023-06-20,B012,Store,Silver,Y
+C0323,Ho Van Nam,Male,1972-06-07,Hai Phong,Chu cua hang,2022-09-09,B004,Mobile App,Standard,N
+C0324,Le Nhat Long,Male,1966-09-20,Can Tho,Chu cua hang,2024-07-17,B012,Marketplace,Standard,Y
+C0325,Tran Thanh Cuong,Male,1997-01-17,TP.HCM,Ky su,2022-03-02,B011,Store,Silver,N
+C0326,Huynh Gia Phong,Male,1997-08-24,TP.HCM,Lap trinh vien,2023-06-24,B010,Mobile App,Standard,Y
+C0327,Vu Minh Tu,Male,1974-04-14,Da Nang,Giao vien,2022-04-07,B005,Website,Standard,Y
+C0328,Duong Thanh Viet,Male,1990-09-05,TP.HCM,Nhan vien van phong,2025-06-22,B011,Website,Standard,Y
+C0329,Phan Huu Khang,Male,1990-10-25,Can Tho,Sinh vien,2023-06-06,B012,Website,Standard,Y
+C0330,Duong Thanh Son,Male,1965-09-20,TP.HCM,Thiet ke,2024-09-23,B009,Website,Silver,Y
+C0331,Pham Mai Chi,Female,1980-12-23,TP.HCM,Nhan vien van phong,2023-12-26,B011,Website,Standard,N
+C0332,Pham Thu My,Female,1986-04-04,TP.HCM,Quan ly,2022-07-02,B010,Mobile App,Gold,Y
+C0333,Bui Thi Trang,Female,1998-04-25,Ha Noi,Lap trinh vien,2022-11-10,B002,Store,Gold,N
+C0334,Ngo Kim Giang,Female,1998-05-21,Ha Noi,Quan ly,2024-12-16,B001,Website,Standard,Y
+C0335,Duong Phuong Lan,Female,1985-11-26,TP.HCM,Nhan vien van phong,2023-09-02,B008,Store,Silver,Y
+C0336,Vo Gia Hung,Male,2002-05-26,Ha Noi,Quan ly,2024-08-31,B003,Store,Standard,Y
+C0337,Bui Dieu Giang,Female,1995-12-02,Ha Noi,Thiet ke,2024-08-23,B001,Store,Silver,Y
+C0338,Do Bao Trang,Female,1991-08-23,Ha Noi,Ky su,2022-04-22,B001,Store,Gold,Y
+C0339,Tran Huu Cuong,Male,1987-12-05,TP.HCM,Kinh doanh tu do,2022-01-11,B011,Website,Standard,N
+C0340,Ngo Mai Phuong,Female,1977-11-27,Khanh Hoa,Chu cua hang,2022-10-05,B007,Store,Silver,Y
+C0341,Ngo Gia Binh,Male,1985-03-14,Can Tho,Nhan vien van phong,2025-03-20,B012,Website,Silver,Y
+C0342,Ho Kim Linh,Female,1999-01-25,Can Tho,Nhan vien dich vu,2024-06-26,B012,Website,Silver,Y
+C0343,Do Thu Mai,Female,2004-09-20,Can Tho,Kinh doanh tu do,2022-07-30,B012,Mobile App,Silver,Y
+C0344,Do Anh Phong,Male,1999-12-04,Da Nang,Ky su,2023-07-03,B006,Marketplace,Standard,Y
+C0345,Duong Van Thang,Male,1992-11-20,TP.HCM,Chu cua hang,2025-01-14,B008,Website,Gold,Y
+C0346,Huynh Phuong Anh,Female,1986-06-09,Ha Noi,Ky su,2024-06-27,B003,Website,Silver,Y
+C0347,Phan Thu Dung,Female,1988-05-07,TP.HCM,Lap trinh vien,2024-01-28,B008,Store,Silver,Y
+C0348,Vu Thanh Linh,Female,1991-01-11,Ha Noi,Nhan vien van phong,2024-08-22,B001,Store,Standard,Y
+C0349,Vo Ngoc Ha,Female,2000-06-17,TP.HCM,Lap trinh vien,2025-05-02,B008,Mobile App,Standard,Y
+C0350,Nguyen Minh Phong,Male,1975-12-05,TP.HCM,Giao vien,2024-12-31,B008,Marketplace,Silver,Y
+C0351,Phan Thanh Tu,Male,1990-06-14,Hai Phong,Kinh doanh tu do,2023-06-13,B004,Marketplace,Silver,Y
+C0352,Do Quang Khang,Male,2002-05-23,Da Nang,Kinh doanh tu do,2023-10-31,B006,Store,Standard,Y
+C0353,Dang Thanh Huong,Female,2003-04-22,TP.HCM,Thiet ke,2022-12-01,B011,Website,Silver,Y
+C0354,Huynh Kim Ha,Female,1976-04-23,Ha Noi,Kinh doanh tu do,2025-01-22,B002,Store,Standard,Y
+C0355,Phan Ngoc Trang,Female,1996-10-08,Ha Noi,Chu cua hang,2022-05-15,B001,Marketplace,Silver,Y
+C0356,Dang Kim My,Female,1968-11-21,Ha Noi,Giao vien,2023-05-13,B002,Store,Standard,N
+C0357,Huynh Thu Mai,Female,1990-07-27,Ha Noi,Thiet ke,2025-03-19,B003,Store,Silver,Y
+C0358,Le Anh Viet,Male,1992-10-24,TP.HCM,Lap trinh vien,2023-03-05,B008,Website,Silver,N
+C0359,Tran Phuong Linh,Female,1993-08-10,Can Tho,Nhan vien dich vu,2022-01-02,B012,Website,Silver,Y
+C0360,Ly Duc Cuong,Male,1975-11-03,Can Tho,Sinh vien,2022-06-29,B012,Mobile App,Gold,N
+C0361,Do Gia Cuong,Male,1984-08-20,Can Tho,Ky su,2022-06-30,B012,Mobile App,Gold,Y
+C0362,Le Thu Dung,Female,2000-12-24,Ha Noi,Ky su,2024-11-28,B001,Store,Silver,Y
+C0363,Vo Duc Hai,Male,1966-09-10,Ha Noi,Ky su,2023-12-11,B002,Store,Standard,Y
+C0364,Le Thi Hoa,Female,1986-06-02,Da Nang,Chu cua hang,2023-05-23,B005,Store,Standard,Y
+C0365,Ngo Thanh Hoa,Female,2000-07-16,Hai Phong,Thiet ke,2025-01-03,B004,Store,Standard,Y
+C0366,Hoang Dieu Mai,Female,2003-08-09,TP.HCM,Giao vien,2024-05-01,B008,Store,Standard,Y
+C0367,Bui Khanh Giang,Female,1993-10-26,TP.HCM,Thiet ke,2023-02-22,B011,Store,Standard,Y
+C0368,Tran Thi Chi,Female,2001-07-13,Ha Noi,Nhan vien dich vu,2023-02-11,B001,Store,Standard,N
+C0369,Phan Thu Thao,Female,1976-03-20,Da Nang,Thiet ke,2024-01-21,B005,Store,Silver,Y
+C0370,Vu Quang An,Male,1980-07-13,TP.HCM,Sinh vien,2023-07-15,B011,Mobile App,Gold,Y
+C0371,Bui Bao Mai,Female,1986-01-27,Ha Noi,Giao vien,2025-02-20,B002,Mobile App,Silver,Y
+C0372,Nguyen Van Quan,Male,1986-07-05,Da Nang,Lap trinh vien,2024-04-22,B006,Store,Standard,Y
+C0373,Pham Minh Nam,Male,1992-03-13,TP.HCM,Giao vien,2023-06-01,B008,Website,Gold,Y
+C0374,Tran Minh Hai,Male,1972-04-03,Can Tho,Thiet ke,2024-06-28,B012,Store,Silver,Y
+C0375,Ho Kim Trang,Female,1986-06-07,TP.HCM,Thiet ke,2023-04-12,B010,Mobile App,Gold,Y
+C0376,Tran Dieu Ha,Female,1993-06-06,Ha Noi,Nhan vien dich vu,2022-04-16,B001,Mobile App,Gold,Y
+C0377,Tran Duc Binh,Male,1989-08-24,Ha Noi,Kinh doanh tu do,2024-06-19,B002,Store,Gold,N
+C0378,Pham Minh Binh,Male,1988-10-17,TP.HCM,Nhan vien van phong,2022-08-04,B011,Marketplace,Gold,N
+C0379,Huynh Huu Tu,Male,1983-07-27,TP.HCM,Ky su,2023-06-04,B008,Mobile App,Standard,Y
+C0380,Dang Gia Dung,Male,1979-05-02,TP.HCM,Sinh vien,2022-04-26,B010,Store,Standard,Y
+C0381,Do Van Viet,Male,1986-08-03,TP.HCM,Lap trinh vien,2024-12-17,B008,Marketplace,Gold,N
+C0382,Bui Nhat Binh,Male,2001-01-26,TP.HCM,Chu cua hang,2022-11-05,B008,Store,Silver,Y
+C0383,Vu Huu Hung,Male,1965-09-11,TP.HCM,Nhan vien dich vu,2025-04-12,B011,Store,Silver,N
+C0384,Phan Gia Thang,Male,1984-06-02,Khanh Hoa,Chu cua hang,2025-06-17,B007,Marketplace,Standard,N
+C0385,Ho Thanh Mai,Female,1982-10-10,TP.HCM,Ky su,2024-08-02,B009,Store,Standard,N
+C0386,Huynh Kim My,Female,1993-11-15,Da Nang,Quan ly,2022-06-13,B005,Marketplace,Standard,Y
+C0387,Bui Gia Tu,Male,1985-08-18,Da Nang,Quan ly,2024-07-06,B006,Store,Silver,Y
+C0388,Huynh Dieu Mai,Female,1988-09-04,Ha Noi,Ky su,2022-03-14,B001,Store,Standard,Y
+C0389,Duong Duc Thang,Male,2000-04-20,Can Tho,Giao vien,2023-09-30,B012,Store,Gold,Y
+C0390,Ngo Duc Hung,Male,2001-09-01,Ha Noi,Ky su,2023-08-16,B003,Website,Gold,Y
+C0391,Ly Duc Viet,Male,1973-01-04,TP.HCM,Ky su,2022-03-28,B009,Website,Gold,Y
+C0392,Ho Huu Trung,Male,1988-10-25,TP.HCM,Chu cua hang,2023-10-13,B010,Store,Silver,Y
+C0393,Vu Thanh Long,Male,1984-04-15,Ha Noi,Lap trinh vien,2023-11-18,B002,Website,Standard,Y
+C0394,Phan Tuan Cuong,Male,1994-05-23,Can Tho,Thiet ke,2022-10-22,B012,Website,Silver,Y
+C0395,Vo Nhat Trung,Male,1991-04-13,TP.HCM,Chu cua hang,2024-09-11,B008,Store,Standard,Y
+C0396,Ngo Kim Dung,Female,1994-07-15,TP.HCM,Giao vien,2024-05-15,B010,Store,Gold,N
+C0397,Do Phuong Giang,Female,1989-06-20,Da Nang,Sinh vien,2023-05-03,B005,Store,Silver,N
+C0398,Bui Thu Anh,Female,1991-10-26,Ha Noi,Kinh doanh tu do,2022-09-27,B001,Website,Standard,Y
+C0399,Hoang Mai Linh,Female,2002-11-18,Ha Noi,Lap trinh vien,2022-08-15,B002,Store,Silver,Y
+C0400,Bui Kim Linh,Female,1966-03-22,TP.HCM,Quan ly,2022-11-06,B009,Mobile App,Standard,N
+C0401,Pham Thi Giang,Female,1982-11-18,TP.HCM,Nhan vien van phong,2024-08-26,B010,Marketplace,Standard,Y
+C0402,Do Kim Chi,Female,1979-09-17,TP.HCM,Nhan vien dich vu,2022-09-16,B011,Website,Standard,Y
+C0403,Pham Ngoc Trang,Female,1984-10-22,Ha Noi,Nhan vien van phong,2023-11-02,B003,Store,Standard,Y
+C0404,Do Thu Trang,Female,1979-12-24,Can Tho,Nhan vien van phong,2023-04-22,B012,Mobile App,Standard,Y
+C0405,Pham Huu Viet,Male,1986-11-18,Can Tho,Giao vien,2024-10-19,B012,Marketplace,Standard,N
+C0406,Ho Anh Phong,Male,1994-05-13,TP.HCM,Lap trinh vien,2023-02-21,B009,Store,Standard,Y
+C0407,Bui Thanh Ha,Female,1968-08-15,Hai Phong,Ky su,2022-09-19,B004,Website,Standard,Y
+C0408,Tran Thu Hoa,Female,1972-12-25,Ha Noi,Sinh vien,2024-06-07,B001,Website,Silver,Y
+C0409,Le Duc Tu,Male,1995-06-18,Can Tho,Quan ly,2022-04-05,B012,Store,Standard,Y
+C0410,Ngo Khanh Trang,Female,2000-11-15,Hai Phong,Chu cua hang,2024-10-03,B004,Store,Standard,Y
+C0411,Vu Minh Binh,Male,1993-05-02,Khanh Hoa,Thiet ke,2024-06-12,B007,Store,Silver,Y
+C0412,Vo Khanh Chi,Female,1968-05-11,Ha Noi,Kinh doanh tu do,2023-10-14,B002,Website,Silver,N
+C0413,Tran Khanh Dung,Female,1982-07-22,Can Tho,Lap trinh vien,2024-04-10,B012,Marketplace,Standard,Y
+C0414,Vu Thanh Ngan,Female,2003-04-20,TP.HCM,Quan ly,2024-03-06,B009,Store,Standard,N
+C0415,Huynh Thi Dung,Female,2002-02-27,TP.HCM,Ky su,2023-02-03,B008,Website,Standard,Y
+C0416,Nguyen Duc Cuong,Male,1995-05-24,Da Nang,Chu cua hang,2022-12-08,B006,Website,Silver,N
+C0417,Nguyen Gia Phong,Male,1997-05-18,TP.HCM,Chu cua hang,2023-03-27,B010,Store,Gold,Y
+C0418,Pham Khanh Phuong,Female,1997-04-08,TP.HCM,Giao vien,2023-02-07,B011,Store,Silver,N
+C0419,Do Minh Viet,Male,1985-04-20,Can Tho,Giao vien,2023-01-14,B012,Store,Standard,Y
+C0420,Vu Mai Ngan,Female,1993-12-10,TP.HCM,Ky su,2024-07-28,B009,Store,Standard,N
+C0421,Phan Tuan Thang,Male,1995-07-01,Da Nang,Chu cua hang,2022-07-06,B005,Mobile App,Gold,N
+C0422,Vu Mai Huong,Female,2003-07-11,TP.HCM,Lap trinh vien,2023-03-09,B010,Mobile App,Standard,Y
+C0423,Dang Mai My,Female,1971-12-06,TP.HCM,Nhan vien dich vu,2024-06-25,B009,Store,Silver,N
+C0424,Do Bao Anh,Female,1989-06-20,Da Nang,Nhan vien van phong,2025-05-17,B006,Website,Standard,Y
+C0425,Vo Phuong My,Female,1993-09-14,Ha Noi,Giao vien,2023-06-01,B001,Store,Standard,Y
+C0426,Dang Thi Ngan,Female,1975-01-06,Ha Noi,Thiet ke,2023-11-15,B003,Mobile App,Standard,Y
+C0427,Le Van Quan,Male,1980-06-11,Can Tho,Lap trinh vien,2024-11-06,B012,Website,Standard,N
+C0428,Bui Gia Viet,Male,1965-12-12,TP.HCM,Lap trinh vien,2025-02-03,B011,Store,Standard,N
+C0429,Vo Gia Cuong,Male,1983-06-11,Ha Noi,Ky su,2023-05-17,B003,Marketplace,Silver,N
+C0430,Le Thu Ngan,Female,1992-05-15,Can Tho,Ky su,2024-05-29,B012,Mobile App,Silver,Y
+C0431,Le Thu Dung,Female,1995-07-01,Da Nang,Ky su,2022-12-11,B006,Store,Silver,N
+C0432,Dang Minh Viet,Male,1998-07-07,TP.HCM,Nhan vien dich vu,2024-01-19,B009,Website,Standard,Y
+C0433,Bui Anh Nam,Male,1981-03-17,TP.HCM,Kinh doanh tu do,2022-10-10,B008,Website,Standard,Y
+C0434,Duong Khanh Ha,Female,1999-11-19,Ha Noi,Quan ly,2022-04-19,B002,Website,Silver,N
+C0435,Pham Thu Thao,Female,1975-06-23,Ha Noi,Chu cua hang,2023-05-25,B002,Store,Standard,Y
+C0436,Do Ngoc Ha,Female,1985-09-13,Da Nang,Quan ly,2023-04-11,B006,Store,Standard,N
+C0437,Do Khanh Hanh,Female,1986-01-13,Can Tho,Thiet ke,2024-02-02,B012,Mobile App,Standard,Y
+C0438,Ly Huu Hai,Male,1997-05-10,Da Nang,Quan ly,2025-05-19,B006,Store,Standard,Y
+C0439,Le Quang Viet,Male,1989-06-17,TP.HCM,Sinh vien,2024-11-04,B008,Store,Gold,Y
+C0440,Le Quang Cuong,Male,1966-09-19,Da Nang,Nhan vien van phong,2024-06-12,B005,Marketplace,Standard,Y
+C0441,Vu Dieu Linh,Female,1972-06-04,Can Tho,Giao vien,2025-06-15,B012,Store,Standard,Y
+C0442,Ho Thu Linh,Female,1998-10-18,Can Tho,Thiet ke,2025-03-06,B012,Mobile App,Standard,Y
+C0443,Nguyen Nhat Tu,Male,1977-04-25,Can Tho,Kinh doanh tu do,2023-10-20,B012,Mobile App,Standard,Y
+C0444,Bui Thanh Ngan,Female,1965-04-27,Ha Noi,Chu cua hang,2025-05-28,B003,Website,Standard,Y
+C0445,Nguyen Tuan Nam,Male,1976-04-16,Can Tho,Chu cua hang,2022-08-02,B012,Store,Standard,Y
+C0446,Vo Phuong Anh,Female,1999-04-06,Khanh Hoa,Kinh doanh tu do,2024-06-05,B007,Website,Standard,Y
+C0447,Ly Thanh Ha,Female,1969-04-16,Can Tho,Nhan vien dich vu,2024-12-20,B012,Store,Standard,N
+C0448,Dang Thi Phuong,Female,1971-12-21,TP.HCM,Ky su,2024-03-25,B011,Store,Silver,N
+C0449,Ngo Tuan An,Male,1995-12-04,Hai Phong,Thiet ke,2022-12-26,B004,Store,Standard,Y
+C0450,Vo Anh Long,Male,1965-02-24,TP.HCM,Nhan vien dich vu,2022-10-11,B009,Store,Standard,Y
+C0451,Ly Ngoc My,Female,1966-07-10,Da Nang,Thiet ke,2024-10-25,B006,Mobile App,Silver,Y
+C0452,Le Thanh Cuong,Male,1970-01-10,Can Tho,Sinh vien,2022-08-06,B012,Website,Gold,N
+C0453,Vo Huu An,Male,1997-04-07,TP.HCM,Chu cua hang,2024-08-09,B010,Website,Silver,Y
+C0454,Vu Nhat Khang,Male,2002-01-22,TP.HCM,Chu cua hang,2024-05-05,B009,Website,Silver,Y
+C0455,Tran Minh Dung,Male,1972-11-27,TP.HCM,Chu cua hang,2022-07-10,B008,Store,Silver,Y
+C0456,Nguyen Thu Hoa,Female,2000-07-15,Khanh Hoa,Sinh vien,2024-09-27,B007,Mobile App,Standard,Y
+C0457,Vu Duc An,Male,1995-02-13,TP.HCM,Ky su,2024-10-01,B008,Website,Standard,N
+C0458,Vo Thi Ha,Female,1989-12-17,Can Tho,Ky su,2022-08-01,B012,Marketplace,Silver,Y
+C0459,Pham Phuong Hoa,Female,2000-11-01,Can Tho,Nhan vien van phong,2022-11-04,B012,Store,Standard,N
+C0460,Dang Thu Hanh,Female,1968-07-22,TP.HCM,Thiet ke,2023-11-01,B010,Website,Silver,Y
+C0461,Le Ngoc Ha,Female,1975-12-08,Ha Noi,Nhan vien dich vu,2023-08-05,B001,Store,Standard,Y
+C0462,Dang Dieu Huong,Female,1967-08-25,Ha Noi,Lap trinh vien,2024-01-24,B002,Store,Silver,Y
+C0463,Tran Mai Chi,Female,1979-03-04,TP.HCM,Nhan vien dich vu,2023-10-03,B008,Website,Silver,Y
+C0464,Dang Minh Khang,Male,1965-04-04,Can Tho,Nhan vien van phong,2025-04-02,B012,Store,Standard,N
+C0465,Ly Nhat Thang,Male,1981-06-24,TP.HCM,Giao vien,2022-08-12,B011,Mobile App,Standard,Y
+C0466,Dang Huu Hung,Male,1971-10-11,Ha Noi,Giao vien,2023-07-05,B002,Store,Standard,Y
+C0467,Ly Phuong Mai,Female,1992-09-05,TP.HCM,Nhan vien dich vu,2022-03-29,B008,Marketplace,Gold,Y
+C0468,Ly Thanh Trang,Female,1989-12-24,Ha Noi,Nhan vien dich vu,2024-06-07,B002,Store,Gold,Y
+C0469,Do Quang Cuong,Male,1979-09-27,TP.HCM,Nhan vien dich vu,2023-12-24,B008,Store,Standard,Y
+C0470,Hoang Phuong Lan,Female,1993-03-06,Ha Noi,Kinh doanh tu do,2022-06-28,B002,Website,Standard,Y
+C0471,Nguyen Gia Thang,Male,1989-05-03,TP.HCM,Sinh vien,2023-01-02,B010,Store,Silver,N
+C0472,Tran Khanh Thao,Female,1993-07-17,Ha Noi,Thiet ke,2024-03-22,B003,Store,Silver,Y
+C0473,Dang Phuong Giang,Female,1974-02-07,Khanh Hoa,Nhan vien van phong,2024-10-09,B007,Marketplace,Standard,Y
+C0474,Duong Minh Tu,Male,1987-11-08,TP.HCM,Quan ly,2023-08-25,B008,Marketplace,Standard,Y
+C0475,Vo Dieu Hoa,Female,1966-07-17,TP.HCM,Lap trinh vien,2024-05-30,B010,Store,Silver,Y
+C0476,Ly Van Hung,Male,1971-10-21,Ha Noi,Ky su,2022-05-19,B001,Website,Standard,Y
+C0477,Pham Mai Hoa,Female,1977-01-01,TP.HCM,Quan ly,2025-05-09,B010,Website,Standard,N
+C0478,Ly Dieu Lan,Female,1994-10-05,Ha Noi,Lap trinh vien,2023-10-24,B001,Store,Standard,N
+C0479,Vu Tuan Quan,Male,1970-12-19,Ha Noi,Sinh vien,2023-02-07,B003,Marketplace,Standard,Y
+C0480,Bui Mai My,Female,1982-08-17,Ha Noi,Ky su,2024-12-08,B003,Store,Silver,Y
+C0481,Vo Minh Nam,Male,1990-02-06,Da Nang,Nhan vien dich vu,2022-09-15,B005,Marketplace,Standard,Y
+C0482,Nguyen Gia Trung,Male,1978-02-25,TP.HCM,Nhan vien van phong,2025-01-21,B008,Website,Standard,Y
+C0483,Ly Minh Trung,Male,1987-09-15,Ha Noi,Nhan vien dich vu,2024-02-23,B001,Store,Standard,Y
+C0484,Huynh Thu Ha,Female,1972-10-22,Ha Noi,Kinh doanh tu do,2024-07-07,B002,Website,Silver,N
+C0485,Vo Bao Ha,Female,1968-10-12,Da Nang,Nhan vien van phong,2023-07-21,B006,Website,Silver,N
+C0486,Phan Minh Hung,Male,1965-02-27,Can Tho,Thiet ke,2022-09-29,B012,Mobile App,Silver,Y
+C0487,Huynh Tuan Long,Male,1965-12-26,Ha Noi,Giao vien,2023-10-14,B002,Store,Gold,Y
+C0488,Ho Thanh Chi,Female,1991-03-06,TP.HCM,Kinh doanh tu do,2022-08-11,B011,Store,Standard,N
+C0489,Ho Kim Chi,Female,1981-06-13,TP.HCM,Kinh doanh tu do,2025-04-20,B010,Store,Silver,Y
+C0490,Hoang Ngoc Huong,Female,2003-02-04,Khanh Hoa,Thiet ke,2022-01-07,B007,Store,Silver,Y
+C0491,Vo Quang Hai,Male,1984-10-17,Ha Noi,Quan ly,2023-06-21,B001,Store,Standard,Y
+C0492,Dang Thanh Viet,Male,1996-04-25,Ha Noi,Kinh doanh tu do,2024-02-11,B001,Mobile App,Silver,Y
+C0493,Ho Ngoc Mai,Female,1983-04-22,Ha Noi,Chu cua hang,2023-06-26,B002,Store,Standard,Y
+C0494,Huynh Minh Thang,Male,1997-06-23,TP.HCM,Quan ly,2022-09-04,B011,Mobile App,Silver,Y
+C0495,Nguyen Ngoc Anh,Female,1965-06-04,TP.HCM,Quan ly,2024-10-07,B011,Website,Silver,N
+C0496,Dang Van Viet,Male,1972-02-20,TP.HCM,Quan ly,2022-11-09,B008,Store,Standard,Y
+C0497,Vu Duc Thang,Male,1971-04-09,TP.HCM,Thiet ke,2025-04-11,B008,Store,Silver,Y
+C0498,Tran Khanh Chi,Female,1993-08-02,TP.HCM,Lap trinh vien,2022-05-22,B008,Website,Silver,Y
+C0499,Do Thu Huong,Female,1974-10-24,Ha Noi,Ky su,2024-11-08,B003,Website,Standard,Y
+C0500,Ho Anh Hung,Male,1968-12-16,Can Tho,Sinh vien,2024-09-06,B012,Store,Silver,Y
+C0501,Ho Huu Thang,Male,2002-02-13,Khanh Hoa,Sinh vien,2025-11-15,B007,Store,Gold,Y
+C0502,Pham Thanh Ha,Female,1979-02-02,TP.HCM,Chu cua hang,2025-10-09,B011,Store,Standard,Y
+C0503,Vo Thu Hoa,Female,1966-10-06,TP.HCM,Thiet ke,2025-11-08,B009,Marketplace,Silver,Y
+C0504,Ly Huu Viet,Male,1993-08-04,TP.HCM,Kinh doanh tu do,2025-08-30,B008,Store,Standard,N
+C0505,Vo Anh Son,Male,1990-12-05,Da Nang,Lap trinh vien,2025-09-26,B006,Mobile App,Gold,Y
+C0506,Duong Thanh Phong,Male,1967-04-16,Da Nang,Ky su,2025-10-09,B006,Store,Silver,Y
+C0507,Ho Tuan Binh,Male,1966-09-13,TP.HCM,Sinh vien,2025-08-08,B011,Website,Silver,Y
+C0508,Tran Bao Chi,Female,2004-01-22,TP.HCM,Lap trinh vien,2025-08-01,B008,Website,Standard,Y
+C0509,Ly Minh Dung,Male,1975-08-08,TP.HCM,Chu cua hang,2025-12-12,B008,Marketplace,Standard,N
+C0510,Phan Thanh Hung,Male,1965-08-05,TP.HCM,Kinh doanh tu do,2025-11-18,B009,Website,Standard,Y
+C0511,Hoang Quang Tu,Male,1994-04-10,Ha Noi,Nhan vien van phong,2025-11-13,B003,Store,Silver,N
+C0512,Pham Quang Nam,Male,1974-06-20,TP.HCM,Quan ly,2025-09-15,B010,Marketplace,Silver,Y
+C0513,Duong Mai Ha,Female,1984-06-02,Ha Noi,Thiet ke,2025-10-21,B003,Mobile App,Standard,Y
+C0514,Dang Gia Hai,Male,2001-05-21,Ha Noi,Giao vien,2025-09-09,B001,Store,Gold,Y
+C0515,Hoang Huu Binh,Male,2000-04-06,TP.HCM,Kinh doanh tu do,2025-10-28,B011,Store,Standard,Y
+C0516,Ngo Minh Trung,Male,1985-03-04,Khanh Hoa,Nhan vien dich vu,2025-09-09,B007,Store,Silver,Y
+C0517,Dang Anh Viet,Male,1998-12-20,Hai Phong,Giao vien,2025-11-23,B004,Marketplace,Silver,Y
+C0518,Le Huu Tu,Male,1965-01-15,Ha Noi,Quan ly,2025-08-07,B001,Website,Standard,Y
+C0519,Le Mai Anh,Female,1998-07-14,Ha Noi,Kinh doanh tu do,2025-08-27,B003,Website,Silver,N
+C0520,Hoang Thu Chi,Female,2003-12-11,Ha Noi,Ky su,2025-10-03,B001,Marketplace,Standard,Y
+C0521,Phan Kim Thao,Female,1984-10-27,TP.HCM,Ky su,2025-10-07,B009,Website,Silver,N
+C0522,Ho Van Quan,Male,1974-03-06,Hai Phong,Giao vien,2025-11-16,B004,Store,Gold,N
+C0523,Ngo Duc Quan,Male,1988-09-18,TP.HCM,Kinh doanh tu do,2025-08-10,B008,Mobile App,Silver,Y
+C0524,Nguyen Kim Thao,Female,1982-03-17,Da Nang,Quan ly,2025-09-03,B005,Mobile App,Gold,Y
+C0525,Ly Van Nam,Male,1982-11-05,Can Tho,Thiet ke,2025-08-30,B012,Website,Gold,N
+C0526,Ly Thanh Giang,Female,1984-12-24,Can Tho,Chu cua hang,2025-12-01,B012,Marketplace,Standard,N
+C0527,Ly Phuong Mai,Female,1981-01-09,Ha Noi,Giao vien,2025-08-11,B001,Store,Silver,Y
+C0528,Dang Mai Hoa,Female,1980-08-12,TP.HCM,Giao vien,2025-10-05,B011,Mobile App,Standard,Y
+C0529,Nguyen Huu Binh,Male,2001-03-22,Can Tho,Giao vien,2025-10-22,B012,Mobile App,Silver,N
+C0530,Pham Kim Anh,Female,1999-10-19,Da Nang,Sinh vien,2025-09-04,B006,Store,Silver,Y
+C0531,Pham Thanh Anh,Female,1966-04-08,Ha Noi,Quan ly,2025-11-08,B001,Store,Silver,Y
+C0532,Bui Minh Tu,Male,2004-04-08,Hai Phong,Nhan vien van phong,2025-10-07,B004,Mobile App,Standard,Y
+C0533,Ly Thu Linh,Female,1997-05-01,Ha Noi,Sinh vien,2025-11-14,B002,Store,Standard,Y
+C0534,Hoang Thanh Trung,Male,1980-06-26,TP.HCM,Ky su,2025-09-16,B011,Store,Standard,Y
+C0535,Ly Duc Viet,Male,1981-04-19,Can Tho,Nhan vien dich vu,2025-08-25,B012,Store,Silver,N
+C0536,Bui Khanh Dung,Female,1973-07-12,TP.HCM,Giao vien,2025-11-29,B011,Store,Standard,Y
+C0537,Phan Ngoc Huong,Female,1973-04-15,Ha Noi,Thiet ke,2025-08-26,B001,Store,Gold,Y
+C0538,Ly Van Tu,Male,1965-01-11,TP.HCM,Nhan vien van phong,2025-12-23,B010,Store,Silver,Y
+C0539,Bui Tuan Hai,Male,1966-12-08,Hai Phong,Nhan vien dich vu,2025-09-21,B004,Marketplace,Standard,Y
+C0540,Dang Phuong Thao,Female,1984-11-15,Hai Phong,Quan ly,2025-10-28,B004,Mobile App,Standard,Y
+C0541,Pham Dieu Dung,Female,1970-12-11,TP.HCM,Nhan vien dich vu,2025-08-22,B010,Marketplace,Standard,Y
+C0542,Le Van An,Male,1992-09-18,TP.HCM,Quan ly,2025-12-23,B008,Marketplace,Standard,Y
+C0543,Tran Mai Huong,Female,1993-01-02,TP.HCM,Nhan vien dich vu,2025-10-25,B008,Marketplace,Standard,Y
+C0544,Ngo Ngoc Linh,Female,1978-06-13,Hai Phong,Giao vien,2025-09-26,B004,Store,Standard,N
+C0545,Vu Duc Trung,Male,1978-07-02,Ha Noi,Giao vien,2025-09-10,B003,Mobile App,Standard,N
+C0546,Vu Gia Phong,Male,1979-03-17,Hai Phong,Thiet ke,2025-10-30,B004,Store,Standard,Y
+C0547,Nguyen Gia Son,Male,1991-11-27,Can Tho,Thiet ke,2025-11-07,B012,Mobile App,Standard,N
+C0548,Nguyen Kim Thao,Female,1994-01-17,Da Nang,Ky su,2025-12-20,B006,Website,Standard,Y
+C0549,Pham Anh Hai,Male,1999-12-14,Khanh Hoa,Nhan vien dich vu,2025-11-20,B007,Store,Standard,Y
+C0550,Dang Kim Hoa,Female,1970-06-15,Can Tho,Nhan vien van phong,2025-08-22,B012,Website,Silver,N
+C0551,Phan Ngoc Ngan,Female,1976-11-27,Ha Noi,Sinh vien,2025-09-11,B003,Store,Silver,Y
+C0552,Tran Thu Ngan,Female,1971-09-17,Ha Noi,Thiet ke,2025-11-08,B003,Store,Standard,N
+C0553,Huynh Quang Nam,Male,1966-10-08,TP.HCM,Nhan vien van phong,2025-10-19,B010,Website,Standard,N
+C0554,Ngo Khanh Thao,Female,1996-12-07,Ha Noi,Giao vien,2025-08-10,B002,Store,Gold,Y
+C0555,Nguyen Bao Ha,Female,1984-03-10,Da Nang,Nhan vien van phong,2025-08-03,B006,Website,Platinum,Y
+C0556,Phan Khanh Dung,Female,1974-01-07,Ha Noi,Ky su,2025-09-28,B002,Store,Silver,Y
+C0557,Le Gia Binh,Male,1997-02-08,Ha Noi,Sinh vien,2025-09-30,B003,Store,Standard,Y
+C0558,Vu Gia Son,Male,1971-01-21,Da Nang,Chu cua hang,2025-10-09,B005,Store,Silver,Y
+C0559,Vu Duc Cuong,Male,1990-07-24,TP.HCM,Quan ly,2025-08-09,B011,Store,Gold,Y
+C0560,Ly Thu Hanh,Female,1983-06-12,TP.HCM,Nhan vien van phong,2025-10-25,B008,Website,Standard,Y
+C0561,Dang Ngoc Phuong,Female,1999-02-02,TP.HCM,Chu cua hang,2025-09-02,B010,Website,Standard,Y
+C0562,Ngo Thu Hoa,Female,1974-12-07,Hai Phong,Giao vien,2025-10-07,B004,Store,Silver,Y
+C0563,Le Bao Hanh,Female,1982-04-19,Ha Noi,Sinh vien,2025-12-18,B002,Store,Silver,N
+C0564,Vo Minh Trung,Male,1968-01-03,TP.HCM,Kinh doanh tu do,2025-09-17,B009,Website,Silver,Y
+C0565,Hoang Kim Chi,Female,1972-11-19,Da Nang,Quan ly,2025-09-15,B005,Marketplace,Standard,Y
+C0566,Duong Van Binh,Male,1985-10-19,Ha Noi,Giao vien,2025-09-13,B003,Store,Standard,N
+C0567,Vo Thanh Viet,Male,2004-08-18,Khanh Hoa,Kinh doanh tu do,2025-09-23,B007,Website,Standard,N
+C0568,Ho Thi Ngan,Female,1996-11-02,Hai Phong,Nhan vien dich vu,2025-11-09,B004,Website,Standard,Y
+C0569,Do Khanh Linh,Female,1998-05-10,TP.HCM,Sinh vien,2025-12-01,B010,Store,Standard,N
+C0570,Bui Bao Huong,Female,2003-08-10,TP.HCM,Lap trinh vien,2025-08-25,B009,Mobile App,Standard,Y
+C0571,Dang Phuong Lan,Female,1966-02-09,TP.HCM,Nhan vien van phong,2025-09-18,B008,Store,Standard,N
+C0572,Vu Khanh Phuong,Female,1988-09-01,Khanh Hoa,Ky su,2025-10-02,B007,Store,Standard,Y
+C0573,Ly Tuan Cuong,Male,1989-04-13,Da Nang,Ky su,2025-10-11,B006,Store,Gold,N
+C0574,Nguyen Dieu Hanh,Female,1985-01-09,Can Tho,Lap trinh vien,2025-11-23,B012,Store,Standard,N
+C0575,Huynh Gia Nam,Male,1997-10-24,Hai Phong,Nhan vien van phong,2025-09-01,B004,Mobile App,Silver,N
+C0576,Dang Phuong Lan,Female,1968-07-08,Da Nang,Nhan vien dich vu,2025-11-29,B005,Mobile App,Standard,Y
+C0577,Pham Bao Huong,Female,1995-12-18,TP.HCM,Thiet ke,2025-09-20,B011,Store,Standard,Y
+C0578,Le Thi Dung,Female,2004-10-17,TP.HCM,Thiet ke,2025-12-10,B008,Website,Standard,N
+C0579,Ngo Thu Hoa,Female,1966-09-13,TP.HCM,Lap trinh vien,2025-08-28,B008,Marketplace,Silver,Y
+C0580,Ngo Thu Dung,Female,1974-12-25,TP.HCM,Sinh vien,2025-11-21,B009,Store,Standard,Y
+C0581,Phan Van Tu,Male,2004-07-19,TP.HCM,Thiet ke,2025-10-30,B011,Store,Silver,N
+C0582,Hoang Tuan Viet,Male,1989-06-06,Ha Noi,Chu cua hang,2025-10-05,B002,Website,Silver,Y
+C0583,Ho Thanh Trung,Male,1979-07-06,TP.HCM,Ky su,2025-09-01,B011,Store,Silver,Y
+C0584,Do Van Quan,Male,1999-07-10,TP.HCM,Thiet ke,2025-09-11,B010,Mobile App,Standard,N
+C0585,Nguyen Phuong Hanh,Female,1970-04-19,Ha Noi,Kinh doanh tu do,2025-08-10,B002,Website,Standard,Y
+C0586,Vu Mai Chi,Female,1999-09-13,TP.HCM,Thiet ke,2025-09-12,B009,Store,Standard,Y
+C0587,Bui Minh Long,Male,1996-12-05,Ha Noi,Quan ly,2025-08-11,B002,Website,Silver,Y
+C0588,Le Dieu My,Female,1985-03-12,Can Tho,Sinh vien,2025-09-10,B012,Website,Standard,N
+C0589,Nguyen Van Cuong,Male,1972-07-05,TP.HCM,Nhan vien dich vu,2025-09-01,B009,Website,Silver,N
+C0590,Le Anh Hung,Male,2004-02-05,Ha Noi,Chu cua hang,2025-10-27,B001,Website,Standard,Y
+C0591,Hoang Tuan Nam,Male,1981-04-01,TP.HCM,Kinh doanh tu do,2025-08-29,B009,Store,Silver,Y
+C0592,Le Tuan Phong,Male,1987-12-05,Ha Noi,Lap trinh vien,2025-10-29,B002,Mobile App,Gold,N
+C0593,Huynh Anh Nam,Male,1968-11-05,Ha Noi,Thiet ke,2025-09-17,B003,Mobile App,Standard,Y
+C0594,Bui Tuan Dung,Male,2000-05-11,Hai Phong,Ky su,2025-08-16,B004,Store,Silver,Y
+C0595,Tran Gia Nam,Male,1990-01-21,Hai Phong,Kinh doanh tu do,2025-09-16,B004,Mobile App,Silver,Y
+C0596,Ngo Minh Khang,Male,1979-01-01,TP.HCM,Lap trinh vien,2025-10-19,B010,Marketplace,Silver,Y
+C0597,Vu Kim My,Female,1989-09-24,Hai Phong,Lap trinh vien,2025-10-26,B004,Website,Standard,Y
+C0598,Hoang Thanh My,Female,1966-09-05,Khanh Hoa,Ky su,2025-08-12,B007,Store,Silver,N
+C0599,Do Van Khang,Male,1976-06-05,TP.HCM,Giao vien,2025-08-09,B011,Store,Gold,N
+C0600,Phan Quang An,Male,1990-06-16,Ha Noi,Ky su,2025-10-05,B001,Store,Standard,Y
